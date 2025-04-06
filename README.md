@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -47,3 +48,6 @@ npm install
 npm run dev
 
 
+=======
+# To-Do-listApp-byReact
+>>>>>>> 61737a712a0c7b07232f48f38937a8a7fc1c722e
